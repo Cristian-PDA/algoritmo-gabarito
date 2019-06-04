@@ -35,7 +35,7 @@ int main()
         for(i=0; i<10; i++){
             printf(" %c", gab[i]);
         }
-        printf("\n==> Nota do %io aluno eh: %i \n", (cont2+1), acmNota[cont3]);
+        printf("\n==> Nota do %io aluno eh: %i \n", (cont2+1), acmNota[cont3]); // teste de mudanca
         cont4++;
         cont3++;
         cont2++;
