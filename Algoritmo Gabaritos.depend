@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558461801 source:d:\documentos\code blocks\algoritmo gabaritos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
